@@ -1,2 +1,4 @@
 # hello-git
-just learning
+
+
+About time i setup my own git account
